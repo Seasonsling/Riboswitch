@@ -20,8 +20,3 @@ Add feature selected (top 20 and top 35) experiment results. (``test_select35_te
 
 **Feature selected methods:** Using Random forest classifier with adjusted class_weight as prefix, and calculate each feature's permutation importance
 
-
-
-### 2019-11-27 13：49
-
-Add **models**(.pkl) of test_select35_testsize
