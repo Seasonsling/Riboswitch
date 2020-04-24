@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/.gitignore
+.idea/Riboswitch.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+/Model/
+.ipynb_checkpoints/figures-checkpoint.ipynb
+.ipynb_checkpoints/sub_feature_selection-checkpoint.ipynb
+venv/
